@@ -2,6 +2,7 @@
 # Linux Distro for Graphic Designers
 
 ## Overview
+![uDesign](distro.png)
 This document provides a report on a Linux distribution specifically designed for graphic designers and creatives. This distribution comes pre-installed with design software, making it easier for users to perform creative work without the need for manual installation.
 
 ## Contents
